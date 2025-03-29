@@ -2,3 +2,5 @@ streamlit
 webdriver-manager
 selenium-stealth
 undetected-chromedriver
+selenium
+Pillow
